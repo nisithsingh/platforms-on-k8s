@@ -1,0 +1,4 @@
+conference-app:
+  install:
+    infrastructure: true
+    ingress: false
