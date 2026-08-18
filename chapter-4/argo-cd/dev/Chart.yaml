@@ -8,5 +8,5 @@ dependencies:
   # The version below is bumped by the Tekton pipeline on every push to main.
   # Argo CD watches this file, so committing a new version deploys that build.
   - name: conference-app
-    version: v1.0.0-g388bb5a2
+    version: v1.0.0-g4264dc92
     repository: oci://docker.io/nisith1991
