@@ -1,0 +1,6 @@
+# Values for the Dev environment. Everything here is passed to the
+# conference-app subchart, so it must be nested under its name.
+conference-app:
+  install:
+    infrastructure: true
+    ingress: false
