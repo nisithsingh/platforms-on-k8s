@@ -1,4 +1,4 @@
-# Platform Engineering on Kubernetes :: Book Code / Tutorials / Examples
+# Platform Engineering on Kubernetes :: Book Code / Tutorials / Examples that are updated by Nisith Singh
 
 This repository contains all the source code, tutorials, and examples from the [Platform Engineering on Kubernetes](https://www.salaboy.com/books/) Book.
 
